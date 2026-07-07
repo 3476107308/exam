@@ -1,2 +1,2 @@
-line1 from a
+line1 from A
 line2
