@@ -1,0 +1,2 @@
+line1 from b
+line2
