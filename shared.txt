@@ -1,0 +1,2 @@
+line1 from a
+line2
